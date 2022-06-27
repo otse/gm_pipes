@@ -1,0 +1,2576 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 256 texinfos to 154
+Reduced 17 texdatas to 14 (444 bytes to 352)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               154/12288       11088/884736   ( 1.3%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6602/393216   ( 1.7%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       605/65536       16940/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       598/65536       16744/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4382     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       598/65536       16744/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4056     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4056     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4056     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4056     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4056     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1280.00, -2.16)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3724     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3730     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3396     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3192     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2992     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 36 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38049 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+516 faces
+4586 square feet [660459.88 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                108/16384        1296/196608   ( 0.7%) 
+brushsides             673/163840       5384/1310720  ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  161/65536        5152/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  516/65536       28896/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              718/65536        1436/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3963/512000      15852/2048000  ( 0.8%) 
+edges                 2529/256000      10116/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             87/32768         870/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2028/65536        4056/131072   ( 3.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      578904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       609/65536       17052/1835008  ( 0.9%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3856     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38049/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1755
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 42 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39617 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 156
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+489 faces
+4685 square feet [674667.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                112/16384        1344/196608   ( 0.7%) 
+brushsides             697/163840       5576/1310720  ( 0.4%) 
+planes                 238/65536        4760/1310720  ( 0.4%) 
+vertexes               843/65536       10116/786432   ( 1.3%) 
+nodes                  138/65536        4416/2097152  ( 0.2%) 
+texinfos               156/12288       11232/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  489/65536       27384/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              299/65536       16744/3670016  ( 0.5%) 
+leaves                 140/65536        4480/2097152  ( 0.2%) 
+leaffaces              727/65536        1454/131072   ( 1.1%) 
+leafbrushes            166/65536         332/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3785/512000      15140/2048000  ( 0.7%) 
+edges                 2466/256000       9864/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             76/32768         760/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1824/65536        3648/131072   ( 2.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      583624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      140/65536         560/262144   ( 0.2%) 
+HDR ambient table      140/65536         560/262144   ( 0.2%) 
+LDR leaf ambient       492/65536       13776/1835008  ( 0.8%) 
+HDR leaf ambient       140/65536        3920/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       39617/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1611
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 42 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38833 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 153
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+483 faces
+4628 square feet [666475.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                110/16384        1320/196608   ( 0.7%) 
+brushsides             685/163840       5480/1310720  ( 0.4%) 
+planes                 230/65536        4600/1310720  ( 0.4%) 
+vertexes               827/65536        9924/786432   ( 1.3%) 
+nodes                  138/65536        4416/2097152  ( 0.2%) 
+texinfos               153/12288       11016/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  483/65536       27048/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              293/65536       16408/3670016  ( 0.4%) 
+leaves                 140/65536        4480/2097152  ( 0.2%) 
+leaffaces              721/65536        1442/131072   ( 1.1%) 
+leafbrushes            164/65536         328/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3721/512000      14884/2048000  ( 0.7%) 
+edges                 2414/256000       9656/1024000  ( 0.9%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             76/32768         760/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1788/65536        3576/131072   ( 2.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      581872/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      140/65536         560/262144   ( 0.2%) 
+HDR ambient table      140/65536         560/262144   ( 0.2%) 
+LDR leaf ambient       493/65536       13804/1835008  ( 0.8%) 
+HDR leaf ambient       140/65536        3920/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38833/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1583
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38769 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 152
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+478 faces
+4651 square feet [669787.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                110/16384        1320/196608   ( 0.7%) 
+brushsides             685/163840       5480/1310720  ( 0.4%) 
+planes                 230/65536        4600/1310720  ( 0.4%) 
+vertexes               821/65536        9852/786432   ( 1.3%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               152/12288       10944/884736   ( 1.2%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  478/65536       26768/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              288/65536       16128/3670016  ( 0.4%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              708/65536        1416/131072   ( 1.1%) 
+leafbrushes            164/65536         328/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3669/512000      14676/2048000  ( 0.7%) 
+edges                 2381/256000       9524/1024000  ( 0.9%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             74/32768         740/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1734/65536        3468/131072   ( 2.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      582444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       492/65536       13776/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38769/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1561
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38657 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 154
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+475 faces
+4677 square feet [673627.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                110/16384        1320/196608   ( 0.7%) 
+brushsides             685/163840       5480/1310720  ( 0.4%) 
+planes                 226/65536        4520/1310720  ( 0.3%) 
+vertexes               814/65536        9768/786432   ( 1.2%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               154/12288       11088/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  475/65536       26600/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              284/65536       15904/3670016  ( 0.4%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              705/65536        1410/131072   ( 1.1%) 
+leafbrushes            164/65536         328/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3631/512000      14524/2048000  ( 0.7%) 
+edges                 2348/256000       9392/1024000  ( 0.9%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1683/65536        3366/131072   ( 2.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      582144/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       492/65536       13776/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38657/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1545
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38297 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 154
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+473 faces
+4613 square feet [664411.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                109/16384        1308/196608   ( 0.7%) 
+brushsides             679/163840       5432/1310720  ( 0.4%) 
+planes                 224/65536        4480/1310720  ( 0.3%) 
+vertexes               808/65536        9696/786432   ( 1.2%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               154/12288       11088/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  473/65536       26488/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              282/65536       15792/3670016  ( 0.4%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              703/65536        1406/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3608/512000      14432/2048000  ( 0.7%) 
+edges                 2328/256000       9312/1024000  ( 0.9%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1665/65536        3330/131072   ( 2.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      580984/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       501/65536       14028/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38297/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1534
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38297 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 154
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+473 faces
+4613 square feet [664411.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                109/16384        1308/196608   ( 0.7%) 
+brushsides             679/163840       5432/1310720  ( 0.4%) 
+planes                 224/65536        4480/1310720  ( 0.3%) 
+vertexes               808/65536        9696/786432   ( 1.2%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               154/12288       11088/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  473/65536       26488/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              282/65536       15792/3670016  ( 0.4%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              703/65536        1406/131072   ( 1.1%) 
+leafbrushes            163/65536         326/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3608/512000      14432/2048000  ( 0.7%) 
+edges                 2328/256000       9312/1024000  ( 0.9%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1665/65536        3330/131072   ( 2.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      580984/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       501/65536       14028/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38297/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1534
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-172.13 1278.96 -20.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 52 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38393 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 156
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+504 faces
+4637 square feet [667740.00 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                109/16384        1308/196608   ( 0.7%) 
+brushsides             679/163840       5432/1310720  ( 0.4%) 
+planes                 226/65536        4520/1310720  ( 0.3%) 
+vertexes               874/65536       10488/786432   ( 1.3%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               156/12288       11232/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  504/65536       28224/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              746/65536        1492/131072   ( 1.1%) 
+leafbrushes            171/65536         342/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3815/512000      15260/2048000  ( 0.7%) 
+edges                 2464/256000       9856/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1791/65536        3582/131072   ( 2.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      583976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       505/65536       14140/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4050     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       38393/4194304  ( 0.9%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1631
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40265 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 260 texinfos to 156
+Reduced 18 texdatas to 15 (464 bytes to 372)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+495 faces
+4743 square feet [683035.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             715/163840       5720/1310720  ( 0.4%) 
+planes                 226/65536        4520/1310720  ( 0.3%) 
+vertexes               831/65536        9972/786432   ( 1.3%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               156/12288       11232/884736   ( 1.3%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  495/65536       27720/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              305/65536       17080/3670016  ( 0.5%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              731/65536        1462/131072   ( 1.1%) 
+leafbrushes            169/65536         338/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3823/512000      15292/2048000  ( 0.7%) 
+edges                 2460/256000       9840/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             76/32768         760/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1776/65536        3552/131072   ( 2.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      586496/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       504/65536       14112/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4068     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       40265/4194304  ( 1.0%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1613
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (64.00 1144.00 184.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40265 bytes)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1376.00, -2.00)
+Static prop models/props_pipes/pipe02_connector01.mdl outside the map (-176.00, 1328.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 259 texinfos to 155
+Reduced 19 texdatas to 16 (486 bytes to 394)
+Writing C:\Users\Asdf\Desktop\gm_pipes\gm_pipes.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+reading c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+LoadPortals: couldn't read c:\users\asdf\desktop\gm_pipes\gm_pipes.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+PREP OK
+No vis information, direct lighting only.
+495 faces
+4743 square feet [683035.81 square inches]
+6 Displacements
+51 Square Feet [7364.60 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             715/163840       5720/1310720  ( 0.4%) 
+planes                 226/65536        4520/1310720  ( 0.3%) 
+vertexes               831/65536        9972/786432   ( 1.3%) 
+nodes                  136/65536        4352/2097152  ( 0.2%) 
+texinfos               155/12288       11160/884736   ( 1.3%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples       11860/0           11860/0        ( 0.0%) 
+faces                  495/65536       27720/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              305/65536       17080/3670016  ( 0.5%) 
+leaves                 138/65536        4416/2097152  ( 0.2%) 
+leaffaces              731/65536        1462/131072   ( 1.1%) 
+leafbrushes            169/65536         338/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3823/512000      15292/2048000  ( 0.7%) 
+edges                 2460/256000       9840/1024000  ( 1.0%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             76/32768         760/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1776/65536        3552/131072   ( 2.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      586496/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6250/393216   ( 1.6%) 
+LDR ambient table      138/65536         552/262144   ( 0.2%) 
+HDR ambient table      138/65536         552/262144   ( 0.2%) 
+LDR leaf ambient       503/65536       14084/1835008  ( 0.8%) 
+HDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4068     ( 0.0%) 
+pakfile               [variable]      211917/0        ( 0.0%) 
+physics               [variable]       40265/4194304  ( 1.0%) 
+physics terrain       [variable]         950/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 1613
+Writing c:\users\asdf\desktop\gm_pipes\gm_pipes.bsp
+2 seconds elapsed
